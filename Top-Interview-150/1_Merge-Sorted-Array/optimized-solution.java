@@ -1,6 +1,8 @@
 /*
 Intuition :
-When you want to merge two sorted arrays, the goal is to create a new sorted array that combines elements from both arrays. Since both arrays are already sorted, you can compare the largest unmerged elements of both arrays and place the larger one at the end of the combined array. This way, you maintain the sorted order as you merge the elements.
+When you want to merge two sorted arrays, the goal is to create a new sorted array that combines elements from both arrays. 
+Since both arrays are already sorted, you can compare the largest unmerged elements of both arrays and place the larger one at the end of the combined array. 
+This way, you maintain the sorted order as you merge the elements.
 
 Approach :
 1. Start from the End: 
