@@ -31,5 +31,6 @@ Prefix Sum
 
 Hint 1:
 Think how you can efficiently utilize prefix and suffix products to calculate the product of all elements except self for each index. Can you pre-compute the prefix and suffix products in linear time to avoid redundant calculations?
+
 Hint 2:
 Can you minimize additional space usage by reusing memory or modifying the input array to store intermediate results?
